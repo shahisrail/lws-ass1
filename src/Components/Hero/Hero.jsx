@@ -13,7 +13,7 @@ const Hero = () => {
         </button>
       </div>
       <div >
-        <img className="animate-updown w-full" src="/src/assets/hero-graphics.svg" alt="Banner" />
+        <img className="animate-updown w-full" src="https://i.postimg.cc/RVM2RTDQ/hero-graphics.png" alt="Banner" />
       </div>
     </div>
   );

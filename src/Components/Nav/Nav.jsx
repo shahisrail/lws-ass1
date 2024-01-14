@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <div className="flex justify-between p-4 md:p-10">
       <div>
-        <img className="w-[120px]" src="/src/assets/lws-logo-en.svg" alt="Lws" />
+        <img className="w-[120px]" src="https://i.postimg.cc/J739ZFPz/lws-logo-en.png" alt="Lws" />
       </div>
       <div>
 
