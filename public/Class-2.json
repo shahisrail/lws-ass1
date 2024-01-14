@@ -1,0 +1,83 @@
+[
+    {
+      "ID": 1,
+      "Class": 2,
+      "Name": "James Anderson",
+      "Scores": "A",
+      "Percentage": 91.5,
+      "Photo": "https://i.postimg.cc/PJ9BqGdW/images.jpg"
+    },
+    {
+      "ID": 2,
+      "Class": 2,
+      "Name": "Aria White",
+      "Scores": "B+",
+      "Percentage": 88.2,
+      "Photo": "https://i.postimg.cc/LXs7B4Xk/images.jpg"
+    },
+    {
+      "ID": 3,
+      "Class": 2,
+      "Name": "Logan Harris",
+      "Scores": "A-",
+      "Percentage": 90.0,
+      "Photo": "https://i.postimg.cc/gjXTQM3n/images.jpg"
+    },
+    {
+      "ID": 4,
+      "Class": 2,
+      "Name": "Grace Thompson",
+      "Scores": "A",
+      "Percentage": 93.2,
+      "Photo": "https://i.postimg.cc/0ys9Gmqp/images.jpg"
+    },
+    {
+      "ID": 5,
+      "Class": 2,
+      "Name": "William Turner",
+      "Scores": "B",
+      "Percentage": 86.7,
+      "Photo": "https://i.postimg.cc/DzfFHT00/images.jpg"
+    },
+    {
+      "ID": 6,
+      "Class": 2,
+      "Name": "Lily Baker",
+      "Scores": "A+",
+      "Percentage": 94.5,
+      "Photo": "https://i.postimg.cc/tTwjsn5n/images.jpg"
+    },
+    {
+      "ID": 7,
+      "Class": 2,
+      "Name": "Jackson Moore",
+      "Scores": "B+",
+      "Percentage": 88.9,
+      "Photo": "https://i.postimg.cc/7Yv4D7hp/images.jpg"
+    },
+    {
+      "ID": 8,
+      "Class": 2,
+      "Name": "Sophie Hall",
+      "Scores": "A-",
+      "Percentage": 89.2,
+      "Photo": "https://i.postimg.cc/QMMGSJYW/images.jpg"
+    },
+    {
+      "ID": 9,
+      "Class": 2,
+      "Name": "Daniel Lewis",
+      "Scores": "B",
+      "Percentage": 87.1,
+      "Photo": "https://i.postimg.cc/W4zC0btG/images.jpg"
+    },
+    {
+      "ID": 10,
+      "Class": 2,
+      "Name": "Emily Turner",
+      "Scores": "A-",
+      "Percentage": 90.5,
+      "Photo": "https://i.postimg.cc/PJWRdCFj/images.jpg"
+    }
+  ]
+  

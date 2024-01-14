@@ -1,0 +1,82 @@
+[
+  {
+    "ID": 1,
+    "Class": 1,
+    "Name": "Noah Taylor",
+    "Scores": "A+",
+    "Percentage": 89.7,
+    "Photo": "https://pngimg.com/uploads/student/student_PNG127.png"
+  },
+  {
+    "ID": 2,
+    "Class": 1,
+    "Name": "Emma Johnson",
+    "Scores": "A",
+    "Percentage": 92.3,
+    "Photo": "https://i.postimg.cc/XY0z1kqY/c-HJpdm-F0-ZS9sci9pb-WFn-ZXMvd2-Vic2l0-ZS8y-MDIz-LTA4-L3-Jhd3-Bpe-GVsb2-Zma-WNl-N19wa-G90b2dy-YXBoe-V9v-Zl9o-YXBwe-V9pbm-Rp.webp"
+  },
+  {
+    "ID": 3,
+    "Class": 1,
+    "Name": "Liam Smith",
+    "Scores": "B+",
+    "Percentage": 85.5,
+    "Photo": "https://i.postimg.cc/KckpZHgY/pngtree-portrait-of-school-boy-with-medal-vector-picture-image-2282267.png"
+  },
+  {
+    "ID": 4,
+    "Class": 1,
+    "Name": "Olivia Brown",
+    "Scores": "A-",
+    "Percentage": 91.2,
+    "Photo": "https://i.postimg.cc/pTnQt31b/57-574351-nursery-school-student-png-transparent-png.png"
+  },
+  {
+    "ID": 5,
+    "Class": 1,
+    "Name": "Aiden Wilson",
+    "Scores": "B",
+    "Percentage": 87.8,
+    "Photo": "https://i.postimg.cc/tRWdvQxF/images.jpg"
+  },
+  {
+    "ID": 6,
+    "Class": 1,
+    "Name": "Sophia Davis",
+    "Scores": "A",
+    "Percentage": 92.0,
+    "Photo": "https://i.postimg.cc/nLXBv6xj/download.jpg"
+  },
+  {
+    "ID": 7,
+    "Class": 1,
+    "Name": "Mason Miller",
+    "Scores": "B+",
+    "Percentage": 88.5,
+    "Photo": "https://i.postimg.cc/Dfrsdr9g/images.jpg"
+  },
+  {
+    "ID": 8,
+    "Class": 1,
+    "Name": "Isabella Moore",
+    "Scores": "A+",
+    "Percentage": 94.1,
+    "Photo": "https://i.postimg.cc/DwMbyBG2/images.jpg"
+  },
+  {
+    "ID": 9,
+    "Class": 1,
+    "Name": "Ethan Taylor",
+    "Scores": "B-",
+    "Percentage": 80.7,
+    "Photo": "https://i.postimg.cc/j5zWcTF5/images.jpg"
+  },
+  {
+    "ID": 10,
+    "Class": 1,
+    "Name": "Ava Wilson",
+    "Scores": "A-",
+    "Percentage": 89.5,
+    "Photo": "https://i.postimg.cc/8PkFRqBp/images.jpg"
+  }
+]
