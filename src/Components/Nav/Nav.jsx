@@ -3,9 +3,9 @@ import React from "react";
 
 const Nav = () => {
   return (
-    <div className="flex justify-between p-5">
+    <div className="flex justify-between p-10">
       <div>
-        <img  src="/src/assets/lws-logo-en.svg" alt="Lws" />
+        <img className="w-[120px]" src="/src/assets/lws-logo-en.svg" alt="Lws" />
       </div>
       <div>
 

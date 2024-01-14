@@ -5,10 +5,10 @@ import class1Data from "/public/Class-1.json";
 const Class_1 = () => {
   return (
     <div>
-      <div className="max-w-[848px] mx-auto overflow-auto">
+      <div className="max-w-[848px] mx-auto overflow-auto mt-16">
         <table className="w-full">
           <thead>
-            <tr className="border-b border-[#FFFFFF0D]">
+            <tr className="border-b  border-[#FFFFFF0D]">
               <th className="uppercase p-5 text-sm md:text-xl font-semibold md:min-w-[110px] text-left text-white">
                 ID
               </th>
